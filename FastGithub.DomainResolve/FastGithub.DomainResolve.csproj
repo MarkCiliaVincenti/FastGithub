@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   
 	<ItemGroup>
+		<PackageReference Include="AsyncKeyedLock" Version="6.2.2" />
 		<PackageReference Include="PInvoke.AdvApi32" Version="0.7.124" />
 		<PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="6.0.1" />
 		<PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
